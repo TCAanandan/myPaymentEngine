@@ -14,6 +14,11 @@ namespace PaymentRulesEngine.Payment
         Video = 5
     }
 
+    abstract class Creator
+    {
+        public abstract IPayment FactoryMethod(int type);
+    }
+
     public class FactoryPayment
     {
         public static IPayment GetPaymentObject(int objType)
