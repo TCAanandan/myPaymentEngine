@@ -1,0 +1,10 @@
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.exe
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.deps.json
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.runtimeconfig.json
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.runtimeconfig.dev.json
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.dll
+G:\myProjects\PaymentRulesEngine\bin\Release\netcoreapp3.1\PaymentRulesEngine.pdb
+G:\myProjects\PaymentRulesEngine\obj\Release\netcoreapp3.1\PaymentRulesEngine.AssemblyInfoInputs.cache
+G:\myProjects\PaymentRulesEngine\obj\Release\netcoreapp3.1\PaymentRulesEngine.AssemblyInfo.cs
+G:\myProjects\PaymentRulesEngine\obj\Release\netcoreapp3.1\PaymentRulesEngine.dll
+G:\myProjects\PaymentRulesEngine\obj\Release\netcoreapp3.1\PaymentRulesEngine.pdb
